@@ -25,21 +25,35 @@ OpenAI API (optional)
 
 ## Project Workflow
 Upload Resume PDF
+
 Extract Resume Text
+
 Analyze Resume Keywords
+
 Compare Resume with Job Description
+
 Calculate ATS Match Score
+
 Detect Missing Skills
+
 Generate AI Suggestions
+
 Visualize Insights on Dashboard
+
 
 ## Dashboard Components
 ATS Score KPI
+
 Resume Match Status
+
 Missing Skills Analysis
+
 Skill Visualization Pie Chart
+
 Resume Insights
+
 AI Suggestions Tab
+
 
 ## Conclusion
 This project demonstrates how AI and Data Analytics can be combined to improve resume screening and ATS optimization. The application provides real-time resume analysis, intelligent skill matching, and interactive visual insights through a modern Streamlit dashboard.
