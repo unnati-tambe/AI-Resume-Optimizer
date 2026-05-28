@@ -7,13 +7,21 @@ The project combines Artificial Intelligence, Natural Language Processing, and D
 
 ## Technologies Used
 Python
+
 Streamlit
+
 NLP (Natural Language Processing)
+
 Scikit-learn
+
 PyPDF2
+
 Plotly
+
 Pandas
+
 OpenAI API (optional)
+
 
 ## Project Workflow
 Upload Resume PDF
