@@ -54,6 +54,9 @@ Resume Insights
 
 AI Suggestions Tab
 
+## Dashboard Preview
+<img width="1351" height="553" alt="ATS_1" src="https://github.com/user-attachments/assets/ed9ada1d-e360-4911-9e35-16a285e98425" />
+
 
 ## Conclusion
 This project demonstrates how AI and Data Analytics can be combined to improve resume screening and ATS optimization. The application provides real-time resume analysis, intelligent skill matching, and interactive visual insights through a modern Streamlit dashboard.
