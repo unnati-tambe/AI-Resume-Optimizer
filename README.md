@@ -57,6 +57,11 @@ AI Suggestions Tab
 ## Dashboard Preview
 <img width="1351" height="553" alt="ATS_1" src="https://github.com/user-attachments/assets/ed9ada1d-e360-4911-9e35-16a285e98425" />
 
+<img width="1353" height="633" alt="ATS_2" src="https://github.com/user-attachments/assets/7867b96f-a944-41ed-ab10-63b1c847cc0c" />
+
+<img width="1316" height="412" alt="ATS_3" src="https://github.com/user-attachments/assets/e8e6e239-435f-4f07-8330-fd878764a394" />
+
+<img width="1341" height="371" alt="ATS_4" src="https://github.com/user-attachments/assets/ef7afb00-3456-40c2-ba57-b67331e5f75e" />
 
 ## Conclusion
 This project demonstrates how AI and Data Analytics can be combined to improve resume screening and ATS optimization. The application provides real-time resume analysis, intelligent skill matching, and interactive visual insights through a modern Streamlit dashboard.
